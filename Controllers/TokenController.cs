@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Authorization_service.Controllers
+namespace AuthorizationService.Controllers
 {
 
     [Route("api/[controller]")]

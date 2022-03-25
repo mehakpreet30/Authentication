@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Authorization_service
+namespace AuthorizationService
 {
     public class Authenticate
     {

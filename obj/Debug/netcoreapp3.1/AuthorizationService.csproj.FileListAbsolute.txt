@@ -47,3 +47,4 @@ C:\Users\2085095\Downloads\ROMS Microservices\Authorization\obj\Debug\netcoreapp
 C:\Users\2085095\Downloads\ROMS Microservices\Authorization\obj\Debug\netcoreapp3.1\AuthorizationService.dll
 C:\Users\2085095\Downloads\ROMS Microservices\Authorization\obj\Debug\netcoreapp3.1\AuthorizationService.pdb
 C:\Users\2085095\Downloads\ROMS Microservices\Authorization\obj\Debug\netcoreapp3.1\AuthorizationService.genruntimeconfig.cache
+C:\Users\2085095\Downloads\ROMS Microservices\Authorization\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.AssemblyReference.cache
