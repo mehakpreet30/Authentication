@@ -7295,9 +7295,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2085095\\Downloads\\ROMS Microservices\\Authorization\\Authorization service.csproj",
-      "projectName": "Authorization service",
-      "projectPath": "C:\\Users\\2085095\\Downloads\\ROMS Microservices\\Authorization\\Authorization service.csproj",
+      "projectUniqueName": "C:\\Users\\2085095\\Downloads\\ROMS Microservices\\Authorization\\AuthorizationService.csproj",
+      "projectName": "AuthorizationService",
+      "projectPath": "C:\\Users\\2085095\\Downloads\\ROMS Microservices\\Authorization\\AuthorizationService.csproj",
       "packagesPath": "C:\\Users\\2085095\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\2085095\\Downloads\\ROMS Microservices\\Authorization\\obj\\",
       "projectStyle": "PackageReference",

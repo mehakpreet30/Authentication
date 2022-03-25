@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qF/Uv8/ZvpNhR8/JnuB1iMJGqP25DMk63trw7nOFcxc+yDwBPDD1IzI1ABkJvIgwqJcjeONrYRFdXl6xA5e0OQ==",
+  "dgSpecHash": "effKUOcFhM0VMI0B4TsMox/+FK8oYTT15v98TlBauf4fuSGUMIvbhLi7uNhYyrTxt16atbDoZh5YfYMMSrl4sQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\2085095\\Downloads\\ROMS Microservices\\Authorization\\Authorization service.csproj",
+  "projectFilePath": "C:\\Users\\2085095\\Downloads\\ROMS Microservices\\Authorization\\AuthorizationService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2085095\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\2085095\\.nuget\\packages\\log4net\\2.0.8\\log4net.2.0.8.nupkg.sha512",
