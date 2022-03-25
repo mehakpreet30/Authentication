@@ -7,7 +7,7 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1-buster AS build
 WORKDIR /src
-COPY ["Authorization service.csproj", ""]
+COPY ["AuthorizationService.csproj", ""]
 RUN dotnet restore "./AuthorizationService.csproj"
 COPY . .
 WORKDIR "/src/."
